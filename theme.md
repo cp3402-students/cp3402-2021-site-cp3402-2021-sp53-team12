@@ -5,4 +5,8 @@ Based on our customer's requirement, we decided our webpage should follow simpli
   + https://www.restaurantlabyrinth.com/
   + https://www.cohaibaguette.com/
 
-
+Furthermore, our customer did ask our team to avoid unwanted problems that could happen in the website such as: 
+ - Loading time takes too long due to some unwanted bugs
+ - Uncleared and unorganized content which may cause confused in using
+ - Pop up ads from other websites which lead to lack of quality in our page
+ - 
