@@ -1,2 +1,3 @@
 ﻿# cp3402-2021-site-cp3402-2021-sp53-team12
-This website is built and designed as per client’s requirements as our client clearly mentioned in her interview that she is looking for a simple and clean website because she do not like pop ups. The website clearly looks like image based as she does not like too much texting
+We use Google Cloud to deploy BanhMi Nguyen website.
+Here is the link our website: http://34.138.38.11/
